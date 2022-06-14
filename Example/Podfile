@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'keyboardTextDemo_Example' do
+  pod 'keyboardTextDemo', :path => '../'
+
+  target 'keyboardTextDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
