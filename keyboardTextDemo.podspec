@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'keyboardTextDemo'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'keyboardTextDemo used to show the done for textfiled when oprn keyboard'
 
 # This description is used to generate tags and improve search results.
