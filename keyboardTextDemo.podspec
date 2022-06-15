@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'A short description of keyboardTextDemo. A short description of keyboardTextDemo. A short description of keyboardTextDemo.'
 
-  s.homepage         = 'https://github.com/Kishore%20Guddeti/keyboardTextDemo'
+  s.homepage         = 'https://github.com/guddetikishore/keyboardTextDemo.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Kishore Guddeti' => 'guddetikishore@gmail.com' }
